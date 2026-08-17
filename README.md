@@ -15,8 +15,6 @@ To write a program to predict the marks scored by a student using the simple lin
 5.Predict the marks using the trained model.
 6.Plot the actual data and regression line.
 7.Display the predicted marks. 
-
-
 ## Program:
 ```
 /*
