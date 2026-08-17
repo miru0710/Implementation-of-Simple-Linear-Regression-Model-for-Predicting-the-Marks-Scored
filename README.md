@@ -9,6 +9,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.Import NumPy, Matplotlib, and LinearRegression.
+
 2.Create the sample data for hours studied (X) and marks scored (Y).
 3.Create and train the Linear Regression model using the sample data.
 4.Get the number of hours studied from the user.
